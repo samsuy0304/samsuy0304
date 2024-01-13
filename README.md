@@ -8,6 +8,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=Algo-Rhythms&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=GetThatJob&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=VNA_CMS&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
