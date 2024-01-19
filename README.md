@@ -4,13 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsuy0304&layout=compact&theme=tokyonight&hide=jupyter%20notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=LeptonStudies&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=LeptonStudies&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=Algo-Rhythms&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=Algo-Rhythms&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=GetThatJob&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=VNA_CMS&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=GetThatJob&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=DeepNeural_Numpy&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
