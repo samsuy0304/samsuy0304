@@ -7,7 +7,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=LeptonStudies&theme=tokyonight)](https://github.com/samsuy0304/LeptonStudies)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=Double_Slit-Interference-Simulation&theme=tokyonight)](https://github.com/samsuy0304/Double_Slit-Interference-Simulation)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=VNA_CMS&theme=tokyonight)]((https://github.com/samsuy0304/VNA_CMS))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=VNA_CMS&theme=tokyonight)](https://github.com/samsuy0304/VNA_CMS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=DeepNeural_Numpy&theme=tokyonight)](https://github.com/samsuy0304/DeepNeural_Numpy)
 
 
