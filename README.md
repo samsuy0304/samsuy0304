@@ -4,11 +4,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsuy0304&layout=compact&theme=tokyonight&hide_progress=true&langs_count=8&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=LeptonStudies&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=Algo-Rhythms&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=LeptonStudies&theme=tokyonight)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/samsuy0304/LeptonStudies))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=Algo-Rhythms&theme=tokyonight)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/samsuy0304/Double_Slit-Interference-Simulation))
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=GetThatJob&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=DeepNeural_Numpy&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=GetThatJob&theme=tokyonight)]((https://github.com/samsuy0304/VNA_CMS))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=DeepNeural_Numpy&theme=tokyonight)](https://github.com/samsuy0304/DeepNeural_Numpy)
 
 
 
